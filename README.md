@@ -1,0 +1,1 @@
+This project creates an API utilizing express that is apply to manage a list of TODO items and return or delete a specific todo item when the id is provided in the URL. The API is also able to create a new TODO item when a POST request is sent. At it's current state it does not except query parameters to create the new TODO item.
